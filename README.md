@@ -1,2 +1,2 @@
 # DL-CVMarathon
-Deep Learning and Computer Visual Learninf
+Deep Learning and Computer Visual Learning
